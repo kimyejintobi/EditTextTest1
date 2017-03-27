@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="EditText Exam1"
-        android:testSize="30sp"
+        android:textSize="30sp"
         android:gravity="center"
 
        />
@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="EditText Exam1"
-        android:testSize="30sp"
+        android:textSize="30sp"
         android:gravity="center"
 
         />
